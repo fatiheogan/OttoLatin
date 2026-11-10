@@ -142,9 +142,13 @@ def write_worst(path, ref_rows, refs, hyps, items, k=30):
                     f"OT  : {ref_rows[i]['ottoman']}\nREF : {refs[i]}\nPRED: {hyps[i]}\n\n")
 
 
-def eval_set(ref_path, pred_path, worst_path=None):
+def eval_set(ref_path, pred_path, worst_path=None, only_predicted=False):
     ref_rows = load_jsonl(ref_path)
-    refs, hyps, missing = align(ref_rows, load_jsonl(pred_path))
+    pred_rows = load_jsonl(pred_path)
+    if only_predicted:   # partial runs: score only the rows that have a prediction
+        have = {str(p["id"]) for p in pred_rows}
+        ref_rows = [r for r in ref_rows if str(r["id"]) in have]
+    refs, hyps, missing = align(ref_rows, pred_rows)
     items = per_item(refs, hyps)
     res = {k: round(v, 2) for k, v in agg(items).items()}
     res["ci95"] = {k: [round(a, 2), round(b, 2)] for k, (a, b) in bootstrap_ci(items).items()}
@@ -176,10 +180,12 @@ def main():
     ap.add_argument("--model_dir", help="preds/<model> folder containing <set>.jsonl files")
     ap.add_argument("--compare", help="second model folder to compare against")
     ap.add_argument("--eval_dir", default="data/eval")
+    ap.add_argument("--only_predicted", action="store_true",
+                    help="score only rows that have a prediction (for partial/test runs; not for reported results)")
     args = ap.parse_args()
 
     if args.ref and args.pred:
-        res, _ = eval_set(args.ref, args.pred)
+        res, _ = eval_set(args.ref, args.pred, only_predicted=args.only_predicted)
         print(fmt_row(os.path.basename(args.ref).replace(".jsonl", ""), res))
         print(json.dumps(res, ensure_ascii=False, indent=2))
         return
@@ -195,7 +201,7 @@ def main():
         if not os.path.exists(pp):
             print(f"{s:9s}  (no prediction file, skipped)")
             continue
-        res, items = eval_set(rp, pp, os.path.join(args.model_dir, f"worst_{s}.txt"))
+        res, items = eval_set(rp, pp, os.path.join(args.model_dir, f"worst_{s}.txt"), args.only_predicted)
         results[s], all_items[s] = res, items
         print(fmt_row(s, res))
 
