@@ -1,27 +1,27 @@
 """
-OttoLatin - Degerlendirme scripti
+OttoLatin - evaluation script
 
-Tahmin dosyasi formati (jsonl): {"id": "...", "prediction": "..."}
-Referans dosyasi: data/eval/<set>.jsonl  ({"id", "ottoman", "turkish"})
+Prediction file format (jsonl): {"id": "...", "prediction": "..."}
+Reference file: data/eval/<set>.jsonl  ({"id", "ottoman", "turkish"})
 
-Kullanim:
-  # tek model, tek set
+Usage:
+  # one model, one set
   python scripts/evaluate.py --ref data/eval/test_2k.jsonl --pred preds/rule/test_2k.jsonl
 
-  # tek model, tum setler (preds/<model>/<set>.jsonl duzeni)
+  # one model, all sets (preds/<model>/<set>.jsonl layout)
   python scripts/evaluate.py --model_dir preds/rule
 
-  # iki modeli karsilastir (paired bootstrap)
+  # compare two models (paired bootstrap)
   python scripts/evaluate.py --model_dir preds/byt5 --compare preds/rule
 
-Ciktilar: terminalde tablo + <model_dir>/results.json + <model_dir>/worst_<set>.txt
+Outputs: table in the terminal + <model_dir>/results.json + <model_dir>/worst_<set>.txt
 
-Metrikler (korpus seviyesi, yuzde):
-  CER  = toplam karakter edit mesafesi / toplam referans karakteri
-  WER  = toplam kelime edit mesafesi / toplam referans kelimesi
-  chrF = sacrebleu chrF (0-100, yuksek iyi)
-  *_norm: hem tahmin hem referans text_norm.turkish_norm()'dan gecirildikten sonra
-  CI  : 1000 ornekli bootstrap, %95 guven araligi
+Metrics (corpus level, percent):
+  CER  = total character edit distance / total reference characters
+  WER  = total word edit distance / total reference words
+  chrF = sacrebleu chrF (0-100, higher is better)
+  *_norm: after passing both prediction and reference through text_norm.turkish_norm()
+  CI  : bootstrap with 1000 resamples, 95% confidence interval
 """
 import argparse
 import json
@@ -36,7 +36,7 @@ try:
     from rapidfuzz.distance import Levenshtein
     def lev(a, b):
         return Levenshtein.distance(a, b)
-except ImportError:  # yavas ama bagimliliksiz
+except ImportError:  # slow but dependency-free
     def lev(a, b):
         if len(a) < len(b):
             a, b = b, a
@@ -65,7 +65,7 @@ def load_jsonl(path):
 
 
 def per_item(refs, hyps):
-    """Her ornek icin (char_err, char_len, word_err, word_len) ham ve norm."""
+    """Per example: (char_err, char_len, word_err, word_len), raw and normalized."""
     items = []
     for r, h in zip(refs, hyps):
         rn, hn = turkish_norm(r), turkish_norm(h)
@@ -104,7 +104,7 @@ def bootstrap_ci(items, n=N_BOOT, seed=SEED):
 
 
 def paired_bootstrap(items_a, items_b, key="cer_norm", n=N_BOOT, seed=SEED):
-    """H0: A, B'den iyi degil. p = A'nin B'den kotu/esit oldugu orneklem orani (dusuk CER iyi)."""
+    """H0: A is not better than B. p = share of resamples where A is worse or equal (lower CER is better)."""
     rng = random.Random(seed)
     N = len(items_a)
     worse = 0
@@ -119,15 +119,15 @@ def align(ref_rows, pred_rows):
     pred = {str(p["id"]): p.get("prediction", "") or "" for p in pred_rows}
     missing = [r["id"] for r in ref_rows if str(r["id"]) not in pred]
     refs = [r["turkish"] for r in ref_rows]
-    hyps = [pred.get(str(r["id"]), "") for r in ref_rows]   # eksik tahmin = bos string (cezalandirilir)
+    hyps = [pred.get(str(r["id"]), "") for r in ref_rows]   # missing prediction = empty string (penalized)
     return refs, hyps, missing
 
 
 def length_buckets(ref_rows, items):
-    buckets = {"kisa (<40)": [], "orta (40-120)": [], "uzun (>120)": []}
+    buckets = {"short (<40)": [], "medium (40-120)": [], "long (>120)": []}
     for i, r in enumerate(ref_rows):
         L = len(r["turkish"])
-        key = "kisa (<40)" if L < 40 else ("orta (40-120)" if L <= 120 else "uzun (>120)")
+        key = "short (<40)" if L < 40 else ("medium (40-120)" if L <= 120 else "long (>120)")
         buckets[key].append(i)
     return {k: {"n": len(v), **({m: round(x, 2) for m, x in agg(items, v).items()} if v else {})}
             for k, v in buckets.items()}
@@ -166,15 +166,15 @@ def fmt_row(name, r):
     return (f"{name:9s} {r['n']:>6} | CER {r['cer']:6.2f} | WER {r['wer']:6.2f} | "
             f"CERn {r['cer_norm']:6.2f} [{ci['cer_norm'][0]:.2f}-{ci['cer_norm'][1]:.2f}] | "
             f"WERn {r['wer_norm']:6.2f} | chrFn {chrf}"
-            + (f" | EKSIK {r['missing_predictions']}" if r["missing_predictions"] else ""))
+            + (f" | MISSING {r['missing_predictions']}" if r["missing_predictions"] else ""))
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ref")
     ap.add_argument("--pred")
-    ap.add_argument("--model_dir", help="preds/<model> klasoru; icinde <set>.jsonl dosyalari")
-    ap.add_argument("--compare", help="karsilastirilacak ikinci model klasoru")
+    ap.add_argument("--model_dir", help="preds/<model> folder containing <set>.jsonl files")
+    ap.add_argument("--compare", help="second model folder to compare against")
     ap.add_argument("--eval_dir", default="data/eval")
     args = ap.parse_args()
 
@@ -185,7 +185,7 @@ def main():
         return
 
     if not args.model_dir:
-        ap.error("--ref/--pred veya --model_dir ver")
+        ap.error("give --ref/--pred or --model_dir")
 
     results, all_items = {}, {}
     print(f"\n=== {args.model_dir} ===")
@@ -193,7 +193,7 @@ def main():
         pp = os.path.join(args.model_dir, f"{s}.jsonl")
         rp = os.path.join(args.eval_dir, f"{s}.jsonl")
         if not os.path.exists(pp):
-            print(f"{s:9s}  (tahmin dosyasi yok, atlandi)")
+            print(f"{s:9s}  (no prediction file, skipped)")
             continue
         res, items = eval_set(rp, pp, os.path.join(args.model_dir, f"worst_{s}.txt"))
         results[s], all_items[s] = res, items
@@ -212,10 +212,10 @@ def main():
             items_b = per_item(refs, hyps)
             p = paired_bootstrap(all_items[s], items_b)
             a, b = agg(all_items[s])["cer_norm"], agg(items_b)["cer_norm"]
-            sig = "ANLAMLI" if p < 0.05 and abs(a - b) >= 1.0 else "anlamli degil"
+            sig = "SIGNIFICANT" if p < 0.05 and abs(a - b) >= 1.0 else "not significant"
             results["comparison"][s] = {"cer_norm_a": round(a, 2), "cer_norm_b": round(b, 2),
                                         "diff": round(a - b, 2), "p": p, "verdict": sig}
-            print(f"{s:9s} A={a:6.2f}  B={b:6.2f}  fark={a - b:+6.2f}  p={p:.3f}  -> {sig}")
+            print(f"{s:9s} A={a:6.2f}  B={b:6.2f}  diff={a - b:+6.2f}  p={p:.3f}  -> {sig}")
 
     with open(os.path.join(args.model_dir, "results.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)

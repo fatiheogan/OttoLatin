@@ -1,9 +1,9 @@
 """
-OttoLatin - Adim 3a: Dis test setlerinin icine bak
-Kullanim:
+OttoLatin - Step 3a: look inside the external test sets
+Usage:
     python scripts/step3a_peek_external.py
-    (data/external/raw/ icindeki .zip / .tar.gz dosyalarini data/external/extracted/ altina acar)
-Cikti: out/step3/peek.txt  -> bunu Claude'a yukle
+    (unpacks .zip / .tar.gz files from data/external/raw/ into data/external/extracted/)
+Output: out/step3/peek.txt
 """
 import os
 import tarfile
@@ -16,7 +16,7 @@ TEXT_EXT = {".txt", ".csv", ".tsv", ".json", ".jsonl", ".xml", ".md", ".gt", ".h
 
 os.makedirs(RAW, exist_ok=True)
 if not [f for f in os.listdir(RAW) if f.endswith((".zip", ".tar.gz", ".tgz", ".tar"))]:
-    raise SystemExit(f"[!] {os.path.abspath(RAW)} klasoru bos. Indirdigin .zip / .tar.gz dosyalarini buraya koyup tekrar calistir.")
+    raise SystemExit(f"[!] {os.path.abspath(RAW)} is empty. Put the downloaded .zip / .tar.gz files there and run again.")
 os.makedirs(EXT, exist_ok=True)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 lines = []
@@ -45,13 +45,13 @@ for fn in sorted(os.listdir(RAW)):
             with tarfile.open(src) as tf:
                 tf.extractall(dest, members=safe_members_tar(tf, dest), filter="data")
         else:
-            p(f"[atlandi] {fn}")
+            p(f"[skipped] {fn}")
             continue
-        p(f"[acildi] {fn} -> {dest}")
+        p(f"[unpacked] {fn} -> {dest}")
     except Exception as e:
-        p(f"[HATA] {fn}: {e}")
+        p(f"[ERROR] {fn}: {e}")
 
-p("\n================ DOSYA LISTESI ================")
+p("\n================ FILE LIST ================")
 all_files = []
 for root, _, files in os.walk(EXT):
     for f in files:
@@ -59,13 +59,13 @@ for root, _, files in os.walk(EXT):
         all_files.append(path)
         p(f"{os.path.getsize(path):>10,} B  {path}")
 
-p("\n================ ICERIK ORNEKLERI ================")
+p("\n================ CONTENT SAMPLES ================")
 by_dir_count = {}
 for path in sorted(all_files):
     ext = os.path.splitext(path)[1].lower()
     d = os.path.dirname(path)
     by_dir_count[d] = by_dir_count.get(d, 0) + 1
-    if by_dir_count[d] > 4:          # her klasorden en fazla 4 dosya goster
+    if by_dir_count[d] > 4:          # show at most 4 files per folder
         continue
     if ext in TEXT_EXT or ext == "":
         p(f"\n----- {path} -----")
@@ -77,20 +77,20 @@ for path in sorted(all_files):
                         break
                     p(line.rstrip("\n")[:300])
         except Exception as e:
-            p(f"[okunamadi] {e}")
+            p(f"[unreadable] {e}")
     elif ext in {".xlsx", ".xls"}:
         p(f"\n----- {path} (excel) -----")
         try:
             import pandas as pd
             for name, sh in pd.read_excel(path, sheet_name=None).items():
-                p(f"[sayfa: {name}] {sh.shape}  sutunlar: {list(sh.columns)}")
+                p(f"[sheet: {name}] {sh.shape}  columns: {list(sh.columns)}")
                 p(sh.head(8).to_string()[:2000])
         except Exception as e:
-            p(f"[okunamadi] {e}  (pip install openpyxl gerekebilir)")
+            p(f"[unreadable] {e}  (may need: pip install openpyxl)")
     else:
-        p(f"[ikili/goruntu] {path}")
+        p(f"[binary/image] {path}")
 
 with open(OUT, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 print("\n".join(lines[:40]))
-print(f"\n[i] Tam rapor: {OUT}")
+print(f"\n[i] Full report: {OUT}")

@@ -1,14 +1,14 @@
 """
-OttoLatin - ortak metin normalizasyonu (Enes: degerlendirmede bunu kullan)
+OttoLatin - shared text normalization (use this everywhere in evaluation)
 
 turkish_norm(s):
-    Bilimsel transliterasyon ("Huzûr-ı Sâmî", "şer‘an", "re’s") ile modern yazimi
-    ("huzur ı sami", "şeran", "res") karsilastirilabilir hale getirir:
-      - Turkce kurallarina gore kucuk harf (I -> ı, İ -> i)
-      - sapka/isaretler silinir (â->a, î->i, û->u, ā->a, ū->u ...); ç ğ ı ö ş ü KORUNUR
-      - ayn/hemze isaretleri ve kesme isaretleri silinir (‘ ʻ ’ ' ʼ ` ´)
-      - tire -> bosluk, diger noktalama silinir, bosluklar tek bosluga indirilir
-Model ciktisi ve referans AYNI fonksiyondan gecirilip CER/WER hesaplanmali.
+    Makes scholarly transliteration ("Huzûr-ı Sâmî", "şer‘an", "re’s") comparable with
+    modern spelling ("huzur ı sami", "şeran", "res"):
+      - Turkish-aware lowercasing (I -> ı, İ -> i)
+      - circumflex/diacritics removed (â->a, î->i, û->u, ā->a, ū->u ...); ç ğ ı ö ş ü are KEPT
+      - ayn/hamza marks and apostrophes removed (‘ ʻ ’ ' ʼ ` ´)
+      - hyphen -> space, other punctuation removed, whitespace collapsed
+Model output and reference must go through the SAME function before computing CER/WER.
 """
 import re
 import unicodedata
@@ -38,7 +38,7 @@ def strip_marks(s):
 def turkish_norm(s):
     s = unicodedata.normalize("NFC", s)
     s = tr_lower(s)
-    s = unicodedata.normalize("NFC", s)       # "i̇" gibi birlesik karakterleri toparla
+    s = unicodedata.normalize("NFC", s)       # fold combined characters such as "i̇"
     s = s.replace("i̇", "i")
     s = strip_marks(s)
     for a in APOS:

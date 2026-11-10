@@ -1,11 +1,11 @@
 """
-OttoLatin - Adim 3b: Dis test setlerini ortak formata cevir
-Kullanim: python scripts/step3b_build_external.py
-Girdi : data/external/extracted/  (step3a'nin actigi klasorler)
-Cikti : data/external/naskh.jsonl, riqa.jsonl, ot2tr.jsonl
-        her satir: {"id", "source", "ottoman", "turkish", "turkish_norm", "ottoman_bytes"}
+OttoLatin - Step 3b: convert the external test sets to the common format
+Usage : python scripts/step3b_build_external.py
+Input : data/external/extracted/  (folders unpacked by step3a)
+Output: data/external/naskh.jsonl, riqa.jsonl, ot2tr.jsonl
+        one row: {"id", "source", "ottoman", "turkish", "turkish_norm", "ottoman_bytes"}
         out/step3/external_report.json
-Osmanlica tarafa egitim verisiyle AYNI normalizasyon uygulanir (step2'deki norm_ot).
+The Ottoman side gets the SAME normalization as the training data (norm_ot from step2).
 """
 import json
 import os
@@ -26,12 +26,12 @@ RE_WS = re.compile(r"\s+")
 
 
 PUNCT_MAP = {"\u06D4": "."}  # ۔ -> .
-TRAIN_CHARS = set()          # main() icinde doldurulur
+TRAIN_CHARS = set()          # filled in main()
 REMOVED = Counter()
 
 
 def n_ot(s):
-    # Arapca sunum bicimlerini (U+FB50-FEFF, or. ﺎ) temel harflere cevir
+    # map Arabic presentation forms (U+FB50-FEFF, e.g. ﺎ) to base letters
     s = "".join(unicodedata.normalize("NFKC", c) if "\uFB50" <= c <= "\uFEFF" else c for c in s)
     s = norm_ot(s.translate(EXTRA))
     if TRAIN_CHARS:
@@ -67,7 +67,7 @@ def build_line_set(name):
     base = find_dir(name)
     rows, miss = [], 0
     if not base:
-        print(f"[!] {name} klasoru bulunamadi")
+        print(f"[!] {name} folder not found")
         return rows, {"missing_dir": True}
     od, td = os.path.join(base, "ottoman"), os.path.join(base, "turkish")
     for fn in sorted(os.listdir(od)):
@@ -82,7 +82,7 @@ def build_line_set(name):
 
 
 def build_ot2tr():
-    """Sayfa dosyalari: X-osm-N.txt <-> X-tur-N.txt, satir satir hizali"""
+    """Page files: X-osm-N.txt <-> X-tur-N.txt, aligned line by line"""
     base = None
     for root, _, files in os.walk(EXT):
         if any("-osm-" in f for f in files):
@@ -90,7 +90,7 @@ def build_ot2tr():
             break
     rows, info = [], {"pages": 0, "pages_line_mismatch": [], "pages_missing_tur": 0}
     if not base:
-        print("[!] Ot2Tr dosyalari bulunamadi")
+        print("[!] Ot2Tr files not found")
         return rows, info
     for fn in sorted(os.listdir(base)):
         if "-osm-" not in fn:
@@ -117,7 +117,7 @@ def main():
     os.makedirs(os.path.dirname(REP), exist_ok=True)
     report = {}
 
-    # egitim verisindeki karakter envanteri (kapsam kontrolu icin)
+    # character inventory of the training data (coverage check)
     train_chars = Counter()
     tp = "data/processed/train_small.jsonl"
     if os.path.exists(tp):
@@ -125,9 +125,9 @@ def main():
             for line in f:
                 train_chars.update(json.loads(line)["ottoman"])
         TRAIN_CHARS.update(train_chars)
-        print(f"[i] Egitim karakter envanteri: {len(TRAIN_CHARS)} farkli karakter")
+        print(f"[i] Training character inventory: {len(TRAIN_CHARS)} distinct characters")
     else:
-        print("[!] train_small.jsonl yok -> egitimde gorulmemis karakterler silinmeyecek")
+        print("[!] train_small.jsonl missing -> characters unseen in training will NOT be removed")
 
     sets = {"naskh": build_line_set("naskh"), "riqa": build_line_set("riqa"), "ot2tr": build_ot2tr()}
     for name, (rows, info) in sets.items():
@@ -149,16 +149,16 @@ def main():
             "chars_unseen_in_train": {f"{c} U+{ord(c):04X}": n for c, n in unseen.most_common(20)},
         })
         report[name] = info
-        print(f"[i] {name:6s} {len(rows):>5,} satir -> {path}   (>{MAX_BYTES}B: {info['over_max_bytes']})")
+        print(f"[i] {name:6s} {len(rows):>5,} rows -> {path}   (>{MAX_BYTES}B: {info['over_max_bytes']})")
         if rows:
             r = rows[min(3, len(rows) - 1)]
             print(f"      OT : {r['ottoman'][:120]}\n      TR : {r['turkish'][:120]}\n      NRM: {r['turkish_norm'][:120]}")
 
     report["removed_chars_all_sets"] = {f"{c} U+{ord(c):04X}": n for c, n in REMOVED.most_common()}
-    print(f"[i] Osmanlica girdiden silinen karakterler: {dict(REMOVED.most_common(10))}")
+    print(f"[i] Characters removed from the Ottoman input: {dict(REMOVED.most_common(10))}")
     with open(REP, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
-    print(f"\n[i] Rapor: {REP}")
+    print(f"\n[i] Report: {REP}")
 
 
 if __name__ == "__main__":

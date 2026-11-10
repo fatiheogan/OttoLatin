@@ -1,9 +1,9 @@
 """
-OttoLatin - B0: Kural tabanli baseline (harf eslemesi + basit unlu sezgileri)
-Ogrenme yok. Amac: "en kotu makul sistem" referansi. Unlu tahmini yapamadigi icin yuksek CER bekleniyor.
+OttoLatin - B0: rule-based baseline (letter mapping + simple vowel heuristics)
+No learning. Purpose: a "weakest reasonable system" reference. High CER expected since it cannot infer vowels.
 
-Kullanim: python scripts/baseline_rule.py
-Cikti   : preds/rule/<set>.jsonl   ({"id", "prediction"})
+Usage : python scripts/baseline_rule.py
+Output: preds/rule/<set>.jsonl   ({"id", "prediction"})
 """
 import json
 import os
@@ -27,7 +27,7 @@ RE_TOKEN = re.compile(r"(\s+)")
 
 
 def word(w):
-    # kelime basi elif + vav/ye -> tek unlu (او -> u, ای -> i)
+    # word-initial alef + vav/ye -> single vowel (او -> u, ای -> i)
     if len(w) > 1 and w[0] in ALEF and w[1] == "و":
         w = "\x01" + w[2:]
     elif len(w) > 1 and w[0] in ALEF and w[1] in ("ی", "ي"):
@@ -51,7 +51,7 @@ def word(w):
         elif ch in CONS:
             c = CONS[ch]
             out.append(c)
-            # iki unsuz arasina 'e' sok (Osmanlicada yazilmayan unlu icin kaba tahmin)
+            # insert 'e' between two consonants (crude guess for the unwritten vowel)
             nxt = w[i + 1] if i + 1 < n else ""
             if nxt in CONS:
                 out.append("e")
@@ -74,7 +74,7 @@ def main():
     for s in SETS:
         src = os.path.join(EVAL, f"{s}.jsonl")
         if not os.path.exists(src):
-            print(f"[!] {src} yok, atlandi")
+            print(f"[!] {src} missing, skipped")
             continue
         n = 0
         with open(src, encoding="utf-8") as f, open(os.path.join(OUT, f"{s}.jsonl"), "w", encoding="utf-8") as g:
@@ -82,7 +82,7 @@ def main():
                 r = json.loads(line)
                 g.write(json.dumps({"id": r["id"], "prediction": translit(r["ottoman"])}, ensure_ascii=False) + "\n")
                 n += 1
-        print(f"[i] {s:8s} {n:>6,} tahmin -> {OUT}/{s}.jsonl")
+        print(f"[i] {s:8s} {n:>6,} predictions -> {OUT}/{s}.jsonl")
 
 
 if __name__ == "__main__":
