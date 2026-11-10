@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+out/
+preds/
+data/processed/
+data/external/raw/
+data/external/extracted/
+*.zip
