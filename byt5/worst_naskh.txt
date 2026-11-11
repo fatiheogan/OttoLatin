@@ -1,0 +1,150 @@
+### naskh/vatanyahudsilistre.131-015   norm-CER=1721.4
+OT  : قلعهنك بر طاشنی ویرمزلر
+REF : kalenin bir taşını vermezler
+PRED: Kalenik bir taşını vermizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizlerinizl
+
+### naskh/turkceviriler.005-020   norm-CER=1328.1
+OT  : بیوكآطه فی ٢٥ حزیران سنه ١٣١٣
+REF : büyükada fi 25 haziran sene 1313
+PRED: Biokate fi 25 Haziran Sene 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'te 1313'
+
+### naskh/venus.009-018   norm-CER=1322.2
+OT  : غلط حس بتیشك اودادن اوكا بر سس
+REF : galat his bitişik odadan ona bir ses
+PRED: Galat hisse betişk odadan oka bir sessiz ses odadan oka bir sessiz ses bir sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz sessiz odadan oka bir sessiz s
+
+### naskh/zafername.008-010   norm-CER=1251.4
+OT  : شیمدی ممكنی اولا جامع، كلیسانك دی
+REF : Şimdi memnun_mu ola câmî, kilisenin di?
+PRED: Şimdi memekeni ola camii, Kilisenek diyeti di dimeni ola camii, Kilisenek diyeti di dimekni ola camii, Kilisenek diyeti diyeti ola camii, Kilisenek diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Kilisenek diyeti diyeti diyeti ola camii, Ki
+
+### naskh/vatanyahudsilistre.002-019   norm-CER=1250.0
+OT  : علی بك دیرلر ارقداشیده وار ایدی. سز
+REF : ali bey derler arkadaşı_da var idi. siz
+PRED: Ali bek dirler erkadaşıda var edi. Siziziziziziziziziziziziziziz var edi. Sizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizi
+
+### naskh/vatanyahudsilistre.149-006   norm-CER=1159.0
+OT  : اولهجك قرق كشی یوقدر صانوردم. غالبا
+REF : olacak kırk kişi yoktur sanırdım galiba
+PRED: Olacak kark keşi yoktur sanurdum. Galibana kark keşi yoktur sanurdum. Galibana kark keşi yoktur sanurdum. Galibana galibana kark keşi yoktur sanurdum. Galibana galibana kark keşi yoktur sanurdum. Galibana galibana sanurdum. Galibana kark keşi yoktur sanurdum. Galibana galibana sanurdum. Galibana kark keşi yoktur sanurdum. Galibana galibana sanurdum. Galibana kark keşi yoktur sanurdum. Galibana galibana sanurdum. Galibana kark keşi yoktur sanurdum. Galibana sanurdum. Galibana kark keşi yoktur sanur
+
+### naskh/zafername.008-023   norm-CER=1158.5
+OT  : بوندهده كوستهردی قانون تكامل كندینی
+REF : Bunda_da gösterdi kânûn-ı tekâmül kendini
+PRED: Bundada kösterdi kanun tekamel kendinininin kendininin kanun tekamel kendinininininininininininin kanun tekamel kendininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininininini
+
+### naskh/venus.018-009   norm-CER=1152.5
+OT  : آیاق اوجنه مائوندن معمول بر قونسول، اونك
+REF : ayak uçuna maundan mamul bir konsol, onun
+PRED: Ayak ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocuna maiondan mamul bir konsevel, Onkenk ocu
+
+### naskh/venus.008-015   norm-CER=1127.0
+OT  : صیقیشدیرهرق بیچاره چوجوق! ایشته پالكز
+REF : sıkıştırarak "biçare çocuk! işte yalnız
+PRED: Sıkıştırarak biçara çocuk! İşte palkizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocuk! İşte palkizizizizizirerek biçare çocu
+
+### naskh/venus.009-006   norm-CER=1122.2
+OT  : مدید اولمق اوزره بر وای!.. دیدی! لكن
+REF : medîd olmak üzere bir vay!.. dedi! lakin
+PRED: Medya olmak uzra bir vay!.. Dedi! Lükenin lükenin edit olmak uzra bir vay!.. Dedi! Lükenin lükenin lükenin olmak uzra bir vay!.. Dedi! Lükenin lükenin lükenin olmak uzra bir vay!.. Dedi! Lükenin lükenin lükenin ozra bir vay!.. Dedi! Lükenin lükenin lükenin lükenin vay!.. Dedi! Lükenin lükenin lükenin olmak uzra bir vay!.. Dedi! Lükenin lükenin lükenin lükenin vay!.. Dedi! Lükenin lükenin lükenin lükenin vay!.. Dedi! Lükenin lükenin lükenin lükenin vay!.. Dedi! Lükenin lükenin
+
+### naskh/vatanyahudsilistre.149-005   norm-CER=1102.6
+OT  : نه یاكلش اعتفسادده ایمشم! وطن یولنده
+REF : ne yanlış itikatta imişim! vatan yolunda
+PRED: Ne yaklış itifasatta imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda imşim! Vatan yolunda yolunda imşim! Vatan yolunda imşim! Vatan yolunda yolunda imşim! Vatan yolunda imşim! Vatan yolunda yolunda im
+
+### naskh/venus.009-008   norm-CER=1097.2
+OT  : اوداسه كیردیكی وقت، شاشقین، رعشهناك
+REF : odasına girdiği vakit, şaşkın, raşenâk
+PRED: Odasa kirdiği vakit, Şaşkın, Raşenak, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, Raşenakin, R
+
+### naskh/vatanyahudsilistre.131-014   norm-CER=1068.2
+OT  : و عسكرك هر بری بیك جانی اولسه ویررلرده
+REF : ve askerin her biri bin canı olsa verirlerdi
+PRED: Ve Askerek her biri bik canı olsa verirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde derirlerde deri
+
+### naskh/venus.018-018   norm-CER=1063.6
+OT  : سریلمش كنج بر قادین ایدی كه اویقویه مخصوص
+REF : serilmiş genç bir kadın idi ki uykuya mahsus
+PRED: Serilmiş kenci bir kadın edi ki Oykuya mahsussusu mahsususu edi ki Uykuya mahsussusu mahsususu edi ki Uykuya mahsussusu mahsususu edi ki Uykuya mahsussusu mahsususu mahsususu edi ki Uykuya mahsussusu mahsususu mahsususu edi ki Uykuya mahsussusu mahsususu mahsususu edi ki Uykuya mahsussusu mahsususu mahsususu edi ki Uykuya mahsussusu mahsususu mahsususu edi ki Uykuya mahsususu mahsususu mahsususu edi ki Uykuya mahsususu mahsususu mahsususu edi ki Uykuya mahsususu mahsususu mahsususu edi ki Uykuya mahsususu
+
+### naskh/venus.018-014   norm-CER=1061.9
+OT  : بری تنفس ایدییور، اوبری خورلیوردی. بری
+REF : biri teneffüs ediyor, öbürü horluyordu. biri
+PRED: Biri tenfis ediyor, Obru horluyordu. Biri tenfis ediyor, Obru horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyordu. Biri horluyor
+
+### naskh/venus.008-010   norm-CER=1055.0
+OT  : مایس آینك خفیف چیچك رایحهلری نشر
+REF : mayıs aynın hafif çiçek rayihaları neşir
+PRED: Mayıs Aynık Hafif Çiçek Rayhaları Neşeri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşeriri Neşe
+
+### naskh/venus.008-011   norm-CER=1042.2
+OT  : ایدن بر كیجهسنده، شفیقه ایله انور طوپراقلر
+REF : eden bir gecesinde, şefike ile enver topraklar
+PRED: Eden bir kicesinde, Şafika ile enver topraklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklararaklarara
+
+### naskh/zeylikainat.025-009   norm-CER=1042.2
+OT  : ادباسی دیرلر ایدی كه غال طائفهسی یالكز بنی
+REF : üdebâsı derler idi ki "gal taifesi yalnız beni
+PRED: İdbası dirler edi ki gal taifesi yalkez benimini benimiz benimini derler edi ki gal taifesi yalkez benimini benimiz benimini yalkez benimini yalkez benimini yalkez benimini yalkez benini benimini yalkez benini benimini yalkez benini benimiz benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez benini benimini yalkez
+
+### naskh/venus.018-019   norm-CER=1040.5
+OT  : بر تنفس كوكسنی تحریك ایدییوردی. اوبری
+REF : bir teneffüs göğsünü tahrik ediyordu. öbürü
+PRED: Bir tenfis köksünü tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru tahrik ediyordu. Obru'ru obru'nu tahrik ediyordu. Obru'ru
+
+### naskh/vatanyahudsilistre.149-016   norm-CER=1030.8
+OT  : هیچ فرق بولهمیور. ایشته او وقت او عبالی
+REF : hiç fark bölemeyor. işte o vakit o abalı
+PRED: Hiç fark bulamıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit o abalıyor. İşte o vakit
+
+### naskh/vatanyahudsilistre.002-012   norm-CER=1028.9
+OT  : حكمایدهجكدم. عجبا سزك اویله بر قرداشكز
+REF : hükmedecektim. acaba sizin öyle bir kardeşiniz
+PRED: Hükmenidecektim. Aciba sizek oyla bir kardeşkizizizizizizizizizizizizizizizizizek oyla bir kardeşkizizizizizizizizizizizizizizizizizizizizizek oyla bir kardeşkizizizizizizizizizizizizizizizizizizizizizizizek oyla bir kardeşkizizizizizizizizizizizizizizizizizizizizizizizizizizek oyla bir kardeşkizizizizizizizizizizizizizizizizizizizizizizizizizizizek oyla bir kardeşkizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizizi
+
+### naskh/vatanyahudsilistre.002-008   norm-CER=1014.3
+OT  : مناستره كیتمشدی. سكره غائب اولدی. اون التی
+REF : manastıra gitmişti. sekre gaib oldu on altı
+PRED: Menastra kitmişti. Sekre kaybedi. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti oldu. On eleti.
+
+### naskh/venus.008-014   norm-CER=1002.4
+OT  : لاستیق ممهسنی چوجوغك دوداقلری آراسسنه
+REF : lastik memesini çocuğun dudakları arasına
+PRED: Lastık memesini çocuğuk dodakları arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına arasına arasına çocuğuk dodakları arasına arasına arasına arasına arasına arasına çocuğuk dodakları arasına arasına ara
+
+### naskh/venus.018-007   norm-CER=997.7
+OT  : نیم صورتده تنویر ایدییوردی. دیوارك كنارینه
+REF : nîm surette tenvîr ediyordu. duvarın kenarına
+PRED: Nim sortta tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark kenarına tenvir ediyordu. Divark k
+
+### naskh/venus.008-008   norm-CER=995.1
+OT  : اوستنه كتیردی. بر ایكنجی كوملهیش، او قلب
+REF : üstüne getirdi bir ikinci gümleyiş, o kalb
+PRED: Ostuna kitirdi. Bir ikinci kömleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyiş, O kalpleyi
+
+### naskh/vatanyahudsilistre.149-015   norm-CER=993.6
+OT  : او وقت انسان اك مسكین كویلیلرله بنم آرهمده
+REF : o vakit insan en miskin köylülerle benim aramda
+PRED: O vakti insan ek meskin köylülerle benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aramdada benim aram
+
+### naskh/venus.009-015   norm-CER=988.4
+OT  : شفیقه، انورك الندهكی روولوری فرق ایتدی
+REF : şefike, enverin elindeki rovelveri fark etti
+PRED: Şafika, İngiliz elindeki rovluru fark ettiği ettiği fark ettiği ettiği fark ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği fark ettiği ettiği ettiği ettiği fark ettiği ettiği ettiği
+
+### naskh/zeylikainat.11-003   norm-CER=959.2
+OT  : اولوب انجق موقعی ٤٦ درجه ٢٠ دقیقهدن ٥١ درجه
+REF : olup ancak mevki 46 derece 20 dakikadan 51 derece
+PRED: Ulup incik mokay 46 derece 20 dakikadan 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 dereceden 51 d
+
+### naskh/vatanyahudsilistre.131-012   norm-CER=953.1
+OT  : الله بیلیر غوغالرمزی كورهیدك شهنامه حكایه
+REF : allah bilir kavgalarımızı göreydin şehname hikaye
+PRED: Allah bilir gogalarımızı küreydek şehname hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakayeye hakaye
+
+### naskh/vatanyahudsilistre.131-005   norm-CER=940.0
+OT  : كشیسی بر یره طوپلانجه طابیهلری محافظهیه
+REF : kişisi bir yere toplanca tabyaları muhafazaya
+PRED: Keşisi bir yere toplanca tabiaları Muhafızaya'ya mahafizeyeye keşisi bir yere toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'ya mahafizeyeye'ye toplanca tabiaları Muhafızaya'ya'yayayayayayayayay
+

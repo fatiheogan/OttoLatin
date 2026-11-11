@@ -1,0 +1,150 @@
+### ot2tr/Caresaz-27/6   norm-CER=16966.7
+OT  : سن
+REF : Sen?
+PRED: Senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin senin se
+
+### ot2tr/1nolumaktume-2/11   norm-CER=12400.0
+OT  : بر وجه مشروح مرقومان امینلر مضرر عباد و ص عئ بیل فساد اولدقلری صورتده ده من بلاد و ایراخه عباد ضمننده آلا ای یی حال اخذ و حقلرنده لازم گلنمیجه ز الیمه شریآلارڭی اجرا ایله انفاذ امر شریفمه اقدام و دقت
+REF : şlşl
+PRED: Bir vece müşrüh merkuman eminler mazır Abad ve S ai bil fasat oldukları suratta da men belad ve iraha abad zamanında ala i yi hal ihz ve haklarında vardı gelenmice z elime şirialarını icra ile infaz emr şirifme iktim ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikkate ve dikka
+
+### ot2tr/C╠ºankirihakyolusayi1-3/35   norm-CER=11333.3
+OT  : قوش
+REF : koş
+PRED: Kuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşuşu
+
+### ot2tr/amasyaemelsay─▒57s2-1/53   norm-CER=10140.0
+OT  : مژده
+REF : Müjde
+PRED: Mejdede'den mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejde
+
+### ot2tr/amasyaemelsay─▒57s2-1/54   norm-CER=10140.0
+OT  : مژده
+REF : Müjde
+PRED: Mejdede'den mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejde
+
+### ot2tr/amasyaemelsay─▒57s2-1/55   norm-CER=10140.0
+OT  : مژده
+REF : Müjde
+PRED: Mejdede'den mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejde
+
+### ot2tr/amasyaemelsay─▒57s2-1/56   norm-CER=10140.0
+OT  : مژده
+REF : Müjde
+PRED: Mejdede'den mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejdeden mejde
+
+### ot2tr/artvinyesilyuvasayi1-4/0   norm-CER=10120.0
+OT  : تعیین
+REF : Tayîn
+PRED: Tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin tayinin
+
+### ot2tr/C╠ºankirihakyolusayi1-3/36   norm-CER=10075.0
+OT  : آتیل
+REF : atıl
+PRED: Atılılık atılılık atılılık atılılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılaratılılarat
+
+### ot2tr/atestengomlek-22/7   norm-CER=8433.3
+OT  : نه ایدی
+REF : Ne idi?
+PRED: Ne ediyorum ne ediyorum ediyorum ne ediyorum ediyorum ediyorum ne ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyorum ediyo
+
+### ot2tr/bursasergisisayi1-6/20   norm-CER=8433.3
+OT  : نه ایسه
+REF : Ne ise.
+PRED: Ne ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise ise i
+
+### ot2tr/velidebuzziya-2/0   norm-CER=8433.3
+OT  : مكتوب
+REF : MEKTUP
+PRED: Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Mektuplup Me
+
+### ot2tr/lisaniturki-54/2   norm-CER=8416.7
+OT  : ادوات
+REF : Edevat
+PRED: Edvatatörletitivativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativativati
+
+### ot2tr/C╠ºankirihakyolusayi1-3/30   norm-CER=7560.0
+OT  : اوغراش
+REF : Uğraş
+PRED: Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş Uğraş
+
+### ot2tr/turkedebiyatindahikaye-17/23   norm-CER=7228.6
+OT  : بیلهمم
+REF : bilemem
+PRED: Bilemimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimi
+
+### ot2tr/Sinekli Bakkal-2/23   norm-CER=7214.3
+OT  : اگلنر
+REF : eğlenir.
+PRED: Eğlenererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererer
+
+### ot2tr/amasyaemelsay─▒57s2-1/45   norm-CER=7214.3
+OT  : تبرع
+REF : Teberru
+PRED: Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara Tebrara
+
+### ot2tr/mehmedakifinmektublar─▒cilt-1-332/3   norm-CER=7200.0
+OT  : اشرفم
+REF : Eşrefim
+PRED: Eşrefimimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimizimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim
+
+### ot2tr/4noluhalepahkam-115/5   norm-CER=7050.0
+OT  : قلمی
+REF : Kalemî
+PRED: Kalmıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıylamıyl
+
+### ot2tr/C╠ºankirihakyolusayi1-3/32   norm-CER=6720.0
+OT  : دوشون
+REF : düşün
+PRED: Düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşünün düşün
+
+### ot2tr/amasyaemelsay─▒57s2-1/0   norm-CER=6485.7
+OT  : حوضهده
+REF : Havzada
+PRED: Hozada'da'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da hozada'da
+
+### ot2tr/hezaresrar-3/0   norm-CER=5622.2
+OT  : مقدمه
+REF : Mukaddime
+PRED: Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme Makteme
+
+### ot2tr/ic╠ºimizdeki s╠ºeytansabahattinali-9/40   norm-CER=5600.0
+OT  : عمر دیدی
+REF : Ömer dedi.
+PRED: Amer Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Dediyeti Ded
+
+### ot2tr/arsiv-19A/1   norm-CER=5400.0
+OT  : افندیم
+REF : Efendim
+PRED: Efendim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'dim'
+
+### ot2tr/2nolutevziat-203/0   norm-CER=5275.0
+OT  : حكم ٩٠
+REF : Hüküm 90
+PRED: Hakim 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90'im 90
+
+### ot2tr/sozdekizlar-113/11   norm-CER=5155.6
+OT  : آناطولییه
+REF : Anadolu’ya
+PRED: Anadoluya'ya Anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anadoluya'ya anado
+
+### ot2tr/ic╠ºimizdeki s╠ºeytansabahattinali-9/26   norm-CER=5030.0
+OT  : او ده ئولمك
+REF : o da ölmek.
+PRED: O da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakta o da evlmekte olmakta olmakt
+
+### ot2tr/su╠êleymannazif-2/12   norm-CER=5020.0
+OT  : آه یوسفم
+REF : Ah Yusufum
+PRED: Ah Yusufumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumum
+
+### ot2tr/u╠êc╠ºeser-44/7   norm-CER=5020.0
+OT  : دییوردی كه
+REF : Diyordu ki
+PRED: Diyordu ki ki ki diyordu ki ki ki diyordu ki ki ki diyordu ki ki ki diyordu ki ki ki diyordu ki ki ki diyordu ki ki ki ki diyordu ki ki ki ki ki diyordu ki ki ki ki ki diyordu ki ki ki ki ki ki ki ki diyordu ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki k
+
+### ot2tr/risaleinur-114/19   norm-CER=4545.5
+OT  : مراق ایتدم
+REF : Merak ettim
+PRED: Marak ettimiz ettimiştimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak ettimimirak et
+

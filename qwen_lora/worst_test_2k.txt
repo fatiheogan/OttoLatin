@@ -1,0 +1,150 @@
+### 1815679   norm-CER=239.8
+OT  : آدمڭ بری اركك آرقداشلری آننهلریله یاتمش گنچ قادینلرله قونوشیور. استانبول كولتور أونیورسیتهسی ٩ تموز ١٩٩٧ده باقیركوی استانبولده قورولان واقف أونیورسیتهسیدر. ملتم مته.
+REF : Adamın biri erkek arkadaşları anneleriyle yatmış genç kadınlarla konuşuyor. İstanbul Kültür Üniversitesi 9 Temmuz 1997'de Bakırköy İstanbul'da kurulan vakıf üniversitesidir. Meltem Mete.
+PRED: Adamın biri erkek arkadaşları anayasallarıyla tohum genc adınılları konusuyor. İstanbul Koltü Üniversitesi 9 Temmuz 1997'de başkuvu İstanbul'da kurulan veğütününununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununun
+
+### 2237631   norm-CER=152.1
+OT  : كوتو اولابیلیرم اما بو ایشده مكملم زنجیرلر و قامچیلار بنی هیجانلاندریور. ییللق سبزه أورتیمی ٥٣ ٠٠٠ طون ییللق قاوون أورتیمی ٥٠ ٠٠٠ طون ییللق طاخیل أورتیمی ایسه ٢٧ ٠٠٠ طون طور. أودوله باغلی تصرف حسابی.
+REF : Kötü olabilirim ama bu işte mükemmelim Zincirler ve kamçılar beni heyecanlandırıyor. Yıllık sebze üretimi 53 000 ton yıllık kavun üretimi 50 000 ton yıllık tahıl üretimi ise 27 000 ton dur. Ödüle bağlı tasarruf hesabı.
+PRED: Köto olabildirim ama bu işte miktimiz zeminler ve kamçılar beni hayal ederir. Yılçık sebzeler ortamı 53 000 TON Yılç Kavun ortamı 50 000 TON Yılç Tercih ortamı ise 27 000 TON Yol Tercih ortamı esesi 28 000 TON Yol Tercih ortamı eski 37 000 TON Yol Tercih ortamı eski 29 000 TON Yol Tercih ortamı eski 41 000 TON Yol Tercih ortamı eski 42 000 TON Yol Tercih ortamı eski 43 000 TON Yol Tercih ortamı eski 44 000 TON Yol Tercih ortamı eski 45 000 TON Yol Tercih ortamı eski 46 000 T
+
+### 30420   norm-CER=150.0
+OT  : شفیع.
+REF : Şefi.
+PRED: Fırsat.
+
+### 408866   norm-CER=116.7
+OT  : طولدیرمق.
+REF : Doldur.
+PRED: Tölvörküm.
+
+### 835447   norm-CER=100.0
+OT  : نوحڭ وعظی.
+REF : Nuh'un vaazı.
+PRED: Nüfünge ve ucaya.
+
+### 397786   norm-CER=100.0
+OT  : عسكر طوش.
+REF : Asker duş.
+PRED: Kurşun Tüy.
+
+### 510245   norm-CER=90.0
+OT  : سوت كبابی.
+REF : Süt kebabı.
+PRED: Sötfüyük Beyi.
+
+### 401569   norm-CER=85.7
+OT  : شعر افشا ١٩٨٥.
+REF : Şiir İfşa 1985.
+PRED: Sırbistan Afrika 1985.
+
+### 349668   norm-CER=84.6
+OT  : عسكری باغلار.
+REF : Askeri bağlar.
+PRED: Kurşun İbaskanlar.
+
+### 867218   norm-CER=83.3
+OT  : ییمكمكده صحبت وار.
+REF : Yemekte Sohbet Var.
+PRED: Yemiklamaşıktan geçer.
+
+### 398938   norm-CER=82.4
+OT  : میشه شریدی طبعا.
+REF : Meşe şeridi taban.
+PRED: Mısah Şeritidir tam olarak.
+
+### 814170   norm-CER=80.0
+OT  : طاغینیقلق.
+REF : Dağınıklık.
+PRED: Takım Kaları.
+
+### 444357   norm-CER=80.0
+OT  : عثمانلی لیبیهسی.
+REF : Osmanlı Libyası.
+PRED: Ceyteli İlçeşesi.
+
+### 575826   norm-CER=77.8
+OT  : صیوی جیوه.
+REF : Sıvı cıva.
+PRED: Soyu Cüyüş.
+
+### 396968   norm-CER=77.8
+OT  : اوه دوندی.
+REF : Eve döndü.
+PRED: Uyundu.
+
+### 735607   norm-CER=75.0
+OT  : ماس رعج.
+REF : Mass rac.
+PRED: Masa reçevi.
+
+### 92576   norm-CER=75.0
+OT  : چوره حقوقی.
+REF : Çevre hukuku.
+PRED: Çöre hakimiyet.
+
+### 279783   norm-CER=72.7
+OT  : صیرهدهكه صوروم گلییور.
+REF : Sıradaki sorum geliyor.
+PRED: Sıra'daki soru olduğunu söyleyorsun.
+
+### 346200   norm-CER=72.2
+OT  : عثمانلی حاكمیتی.
+REF : Osmanlı hakimiyeti.
+PRED: Cesalpınar Halketi.
+
+### 1247535   norm-CER=71.8
+OT  : أوچنجی فاقتور ایصیریلهنڭ صاغلق طورومی آلرژیسی اولوب اولمامسی آغیرلقیدر و آیریجه ایصیریق صوڭرهسی اویغولانان تداوی ده أونملیدر. شیمدی او گیتدیگینه گوره المده یالڭزجه اعتبار قالدی.
+REF : Üçüncü faktör ısırılanın sağlık durumu alerjisi olup olmaması ağırlığıdır ve ayrıca ısırık sonrası uygulanan tedavi de önemlidir. Şimdi o gittiğine göre elimde yalnızca itibarı kaldı.
+PRED: Üçüncü Farkter İstenilen Savaş Durumu Alır Ziyaretli olmak üzere oğlu olarak açığlık sağladığı veya yaptığını ve aynı zamanda evlendiren tedaüstü dahi onları desteklerdi. Şimdiki o gidiyüğünge geri mada yalanlaştırılmıştır.
+
+### 2210693   norm-CER=71.7
+OT  : ٠٣ ٠٧ ٠١٦. مركزده بولونان جسمڭ گورونتوسی گرچك گورونتو اولوشدرر اولوشان گورونتو جسم ایله عین بویوكلكده و گورونتویه ترسدر گورونتو مركزده اولوشر. گوزلر و دگیشیم كورلگی.
+REF : 03 07 016. Merkezde bulunan cismin görüntüsü gerçek görüntü oluşturur Oluşan görüntü cisim ile aynı büyüklükte ve görüntüye terstir Görüntü merkezde oluşur. Gözler ve Değişim Körlüğü.
+PRED: 03 07 016. Midele bulunan şemconun görevüşü görevi olacak görevi özel görevleri olacak şekilde görevi özel şem ve görevi özel şem ile karşılaştırılır ve görevi özel şem ile karşılaştırılır. Gözler ve Devışım Körleyi.
+
+### 261719   norm-CER=71.4
+OT  : ١٨٨٨ وهسخڭكتوڭ آڭیتی رسما آچیلدی.
+REF : 1888 Washington Anıtı resmen açıldı.
+PRED: 1888 Hesaplandıktüne göre verdi.
+
+### 1554272   norm-CER=71.2
+OT  : گوزم یاشی طونه سیلیدر شیمدی ١٩٩٧ سیل یایینجیلق: لیبهرال دموقراتلر چشیتلی سیاسی قونولرده آوروپه دوزینده چوزوم بولونمسی گركدیگنی صاوونمقمقدهدرلر بو چرچوهده صیغینمه و گوچ پولیتیقهسی ایش پولیتیقهسی و بر آوروپه اوردوسی چرچوهسنده صاوونمه پولیتیقهسینی آڭمقمقدهدرلر.
+REF : Gözüm Yaşı Tuna Selidir Şimdi 1997 Sel Yayıncılık: Liberal Demokratlar çeşitli siyasi konularda avrupa düzeyinde çözüm bulunması gerektiğini savunmaktadırlar Bu çerçevede sığınma ve göç politikası iş politikası ve bir avrupa ordusu çerçevesinde savunma politikasını anmaktadırlar.
+PRED: Güzmem Yasa Tanhe Siliştirmiş: Liberal Demokratlar Çesilelik: Liseyi yapmak için konularda Avrupa duzeninde konuşuyu çağrıştırıktan gelmiştir.
+
+### 2554831   norm-CER=70.8
+OT  : یر و قاپسام، دوز اوچوشده قالدیرمه مقداری بروت آغیرلقه اشیتدر، درین صو آراشدیرمه گمیسی.
+REF : Yer ve kapsam, Düz uçuşta kaldırma miktarı brüt ağırlığa eşittir, Derin su araştırma gemisi.
+PRED: İr ve kapşısm, Düz ölüştür. Duz oğluçta kaldırım miktiribiydi bir oturak aysızlık arasında gerçekleşti, Derin Soaraşma Gemişi.
+
+### 1334278   norm-CER=70.6
+OT  : نوزاد ییلماز. غلطهسرای قارییری!
+REF : Nevzat Yılmaz. Galatasaray Kariyeri!
+PRED: Nüdeltimiz. Külteşrasyar kırıtı!
+
+### 297583   norm-CER=70.6
+OT  : شیكه صوروشدیرمهسی.
+REF : Şike soruşturması.
+PRED: Şeyh Şuçtusraşımı.
+
+### 1861402   norm-CER=70.1
+OT  : كویڭ ناموسی! گوچ! جنایتی گوردم قاتلڭ دقتڭه صونولمق چوق خوش.
+REF : Köyün Namusu! güç! Cinayeti gördüm Katilin dikkatine sunulmak çok hoş.
+PRED: Köyün nemuşu! Göç! Çevabı geri dikkatine onunla karşı hizmetinize olan kahve.
+
+### 641306   norm-CER=70.0
+OT  : ماچ صاییسی.
+REF : Maç sayısı.
+PRED: Maddesi.
+
+### 103137   norm-CER=70.0
+OT  : زیپلیورم.
+REF : Zıplıyorum.
+PRED: Ziyiplerim.
+
+### 97675   norm-CER=69.2
+OT  : البته بسیط!
+REF : Elbette basit!
+PRED: Alataş Bıştı!
+

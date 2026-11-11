@@ -1,0 +1,233 @@
+{
+  "test_2k": {
+    "cer": 33.69,
+    "wer": 61.6,
+    "cer_norm": 32.82,
+    "wer_norm": 57.68,
+    "ci95": {
+      "cer": [
+        32.7,
+        34.75
+      ],
+      "wer": [
+        60.27,
+        62.85
+      ],
+      "cer_norm": [
+        31.83,
+        33.95
+      ],
+      "wer_norm": [
+        56.38,
+        58.97
+      ]
+    },
+    "chrf": 47.55,
+    "chrf_norm": 49.9,
+    "n": 2000,
+    "missing_predictions": 0,
+    "by_length": {
+      "short (<40)": {
+        "n": 696,
+        "cer": 29.71,
+        "wer": 60.23,
+        "cer_norm": 29.51,
+        "wer_norm": 56.52
+      },
+      "medium (40-120)": {
+        "n": 1114,
+        "cer": 31.22,
+        "wer": 59.68,
+        "cer_norm": 30.3,
+        "wer_norm": 55.63
+      },
+      "long (>120)": {
+        "n": 190,
+        "cer": 41.93,
+        "wer": 67.29,
+        "cer_norm": 40.67,
+        "wer_norm": 63.6
+      }
+    }
+  },
+  "riqa": {
+    "cer": 75.23,
+    "wer": 108.75,
+    "cer_norm": 70.45,
+    "wer_norm": 100.55,
+    "ci95": {
+      "cer": [
+        71.8,
+        78.94
+      ],
+      "wer": [
+        104.18,
+        114.03
+      ],
+      "cer_norm": [
+        66.92,
+        74.18
+      ],
+      "wer_norm": [
+        96.53,
+        105.16
+      ]
+    },
+    "chrf": 23.48,
+    "chrf_norm": 28.05,
+    "n": 1575,
+    "missing_predictions": 0,
+    "by_length": {
+      "short (<40)": {
+        "n": 131,
+        "cer": 71.42,
+        "wer": 104.74,
+        "cer_norm": 63.43,
+        "wer_norm": 92.46
+      },
+      "medium (40-120)": {
+        "n": 940,
+        "cer": 68.87,
+        "wer": 103.49,
+        "cer_norm": 63.95,
+        "wer_norm": 96.09
+      },
+      "long (>120)": {
+        "n": 504,
+        "cer": 82.64,
+        "wer": 115.3,
+        "cer_norm": 78.09,
+        "wer_norm": 106.01
+      }
+    }
+  },
+  "naskh": {
+    "cer": 70.87,
+    "wer": 98.45,
+    "cer_norm": 66.28,
+    "wer_norm": 90.64,
+    "ci95": {
+      "cer": [
+        61.53,
+        84.08
+      ],
+      "wer": [
+        93.89,
+        105.99
+      ],
+      "cer_norm": [
+        56.75,
+        80.0
+      ],
+      "wer_norm": [
+        86.12,
+        97.85
+      ]
+    },
+    "chrf": 24.85,
+    "chrf_norm": 28.9,
+    "n": 376,
+    "missing_predictions": 0,
+    "by_length": {
+      "short (<40)": {
+        "n": 44,
+        "cer": 52.98,
+        "wer": 89.16,
+        "cer_norm": 48.33,
+        "wer_norm": 81.52
+      },
+      "medium (40-120)": {
+        "n": 332,
+        "cer": 72.13,
+        "wer": 99.15,
+        "cer_norm": 67.49,
+        "wer_norm": 91.32
+      },
+      "long (>120)": {
+        "n": 0
+      }
+    }
+  },
+  "ot2tr": {
+    "cer": 71.38,
+    "wer": 102.39,
+    "cer_norm": 67.9,
+    "wer_norm": 96.36,
+    "ci95": {
+      "cer": [
+        68.19,
+        75.08
+      ],
+      "wer": [
+        98.87,
+        106.51
+      ],
+      "cer_norm": [
+        64.61,
+        71.66
+      ],
+      "wer_norm": [
+        93.13,
+        100.24
+      ]
+    },
+    "chrf": 27.68,
+    "chrf_norm": 31.77,
+    "n": 2358,
+    "missing_predictions": 0,
+    "by_length": {
+      "short (<40)": {
+        "n": 485,
+        "cer": 68.04,
+        "wer": 108.89,
+        "cer_norm": 62.85,
+        "wer_norm": 99.35
+      },
+      "medium (40-120)": {
+        "n": 1251,
+        "cer": 65.25,
+        "wer": 97.56,
+        "cer_norm": 61.6,
+        "wer_norm": 91.07
+      },
+      "long (>120)": {
+        "n": 622,
+        "cer": 76.45,
+        "wer": 105.51,
+        "cer_norm": 73.25,
+        "wer_norm": 100.1
+      }
+    }
+  },
+  "comparison": {
+    "against": "byt5",
+    "test_2k": {
+      "cer_norm_a": 32.82,
+      "cer_norm_b": 3.26,
+      "diff": 29.56,
+      "p": 1.0,
+      "verdict": "not significant"
+    },
+    "riqa": {
+      "cer_norm_a": 70.45,
+      "cer_norm_b": 272.89,
+      "diff": -202.44,
+      "p": 0.0,
+      "verdict": "SIGNIFICANT"
+    },
+    "naskh": {
+      "cer_norm_a": 66.28,
+      "cer_norm_b": 414.67,
+      "diff": -348.39,
+      "p": 0.0,
+      "verdict": "SIGNIFICANT"
+    },
+    "ot2tr": {
+      "cer_norm_a": 67.9,
+      "cer_norm_b": 201.18,
+      "diff": -133.28,
+      "p": 0.0,
+      "verdict": "SIGNIFICANT"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+### ot2tr/1nolumaktume-2/11   norm-CER=6675.0
+OT  : بر وجه مشروح مرقومان امینلر مضرر عباد و ص عئ بیل فساد اولدقلری صورتده ده من بلاد و ایراخه عباد ضمننده آلا ای یی حال اخذ و حقلرنده لازم گلنمیجه ز الیمه شریآلارڭی اجرا ایله انفاذ امر شریفمه اقدام و دقت
+REF : şlşl
+PRED: Bir peyem sorulan eminler merkezimde bir hava fadası olanları söthede de man bila ve iyi bil fsada öldürüdükleri sörtünde da man belki sevileninize bağlı olarak alma şerifamı gerekli olurdu en iyi ama yani çelikten değil olarak atmakta var şerifimizi kalmakla gelmektedir.
+
+### ot2tr/uyunulhidaye-9/19   norm-CER=2239.4
+OT  : ایشته بو قاتللر دخی بویلهدر كه
+REF : işte bu kâtiller dahi böyledir ki
+PRED: İşte bu katiller dehteylediler ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki ki
+
+### ot2tr/ic╠ºimizdeki s╠ºeytansabahattinali-9/11   norm-CER=1939.4
+OT  : بو بیله براز پالاورهلی بر رقم
+REF : Bu bile biraz palavralı bir rakam.
+PRED: Bu bilişle bir palacıyla bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir numaralı bir num
+
+### ot2tr/uyunulhidaye-9/8   norm-CER=1874.4
+OT  : عزیز منع بو آیتڭ ماناسنه نظر قیل
+REF : ´azîz-i men bu âyetin ma´nasına nazar kıl
+PRED: Zeciz Minac Bu Aytın Manasına Nezih Kıl ileliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklikliklik
+
+### ot2tr/128atiksikayet-185/0   norm-CER=1797.6
+OT  : حلب والیسنه اغراض قضاسی نائبنه حكم
+REF : Haleb vâlîsine Ağraz kazâsı nâibine hüküm
+PRED: Laba Lisesi Ağırdıkça kasıtlı nava hakimliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerliklerlikler
+
+### ot2tr/u╠êmmisinandivan─▒-6/16   norm-CER=1723.9
+OT  : بودر اول یوجه نور ذات قیلان جمله صفتی مات
+REF : Budur ol yüce nûr-ı zât kılan cümle sıfâtı mât
+PRED: Budur ol Yavu Yar Növün Havası Kılınçla Matematik Tefti Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matematik Matemat
+
+### ot2tr/u╠êmmisinandivan─▒-6/7   norm-CER=1550.0
+OT  : آییرمهسون جان و تنی كنه ذاتڭ یا ربنا
+REF : Ayırmasun cân u teni künh-i zâtın yâ Rabbenâ
+PRED: Ayarmaşon Can ve tanı kahinin ya birnağıntan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağıntan olan birnağı
+
+### ot2tr/1noluiznisefine-189/19   norm-CER=1149.3
+OT  : مجانبت و دوستانه معامله ابرازیله امرارینه مبادرت اولونمق بابنده
+REF : mücânebet ve dostâne mu‘âmele ibrâzıyla imrârına mübâderet olunmak bâbında
+PRED: Maktab ve Dostanetçesimiz erzeleri ile emraya ne ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben de ben
+
+### ot2tr/Fahimbeyvebiz-7/18   norm-CER=1143.5
+OT  : اقربا ایچون حسد ویا محبت و آنجق بش آلتی وجود و روح
+REF : akraba için hased veya muhabbet ve ancak beş altı vücut ve ruh
+PRED: Ağrı İçin Hesad ve muhabtut ve Anca Baş Ateşti Veli veli varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla varla
+
+### ot2tr/1nolumaktume-2/7   norm-CER=1104.6
+OT  : مقدما صادر اولان امر میڭیفم موجبنجه عمل اولونمق بابنده
+REF : mukaddemâ sâdır olan ᾽emr-i munifim mûcibince ᾽amel olunmak bâbında
+PRED: Makama Seder Olan Emrinin mişim muhtemel tutunca olan bana de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de Bana ben de
+
+### ot2tr/1nolumaktume-2/9   norm-CER=1013.9
+OT  : سنكه طرامه ناظری مومه الیهسین مقدما صادر اولان امر شریفم موجبنجه عمل اولونمق فرمانم اولمغڭ
+REF : sen ki Drama nâzırı mûmâ ileyhsin mukaddemâ sâdır olan ᾽emr-i şerîfim mûcibince ᾽amel olunmak fermânım olmağın
+PRED: Seneket tamamna nüre mi muhafızın maddi seder olan emir Seferim Mojeclu Cumhurbaşkanı olmuyorum Fermanım Olimum'nundependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindependimindepend
+
+### ot2tr/4noluhalepahkam-115/7   norm-CER=984.6
+OT  : حالا حلب والیسی وزیره یوسف پاشایه و حلب ملاسنه حكم كه
+REF : Hâlâ Haleb Vâlisi Vezîre Yusuf Paşaya ve Haleb Mollasına hüküm ki
+PRED: Alayla Ankara Uluslararası Ziyareti Yusef Paşa ve Alba Malihe Hükümet Kehakete kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahveye sahip olan kahve
+
+### ot2tr/yolvemenzildefterleri-85/0   norm-CER=871.4
+OT  : بندر محافظهسنه مأمور پاشا دامن معلایه حكم كه
+REF : Bender muhafazasına memur Paşa dâmen-i muallaya hüküm ki
+PRED: Bendir mahmutaşına mezmori paşa demen muhalika gibi kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve kahve
+
+### ot2tr/uyunulhidaye-9/35   norm-CER=761.2
+OT  : زیرا ایش بو نیجه منافق و مشرك یزیدیلر فخر عالمه ایمان ایلهدك دیرلر ایدی
+REF : zîrâ iş bu nice münâfık ve müşrik yezîdîler fahr-i ´âleme îmân eyledik dirler idi
+PRED: Zira İş Bu niye manzaraf ve muharram yıldır Fehim Cemahevi İmdan ilçek diller iddiye ediyorduk iddisyler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler
+
+### ot2tr/tarihimehmedgiray-22/33   norm-CER=583.8
+OT  : و سیاوش پاشا مرحوم قتل اولوندقدن صڭره قوجه نشانجی اسماعیل پاشا نامنده بر پاشا وزیر اولونوب
+REF : ve Siyâvüş Paşa merhûm katl olundukdan soñra Koca Nişâncı İsmâ‘îl Paşa nâmında bir paşa vezîr olunup
+PRED: Ve siyaset paşa mahrem kahramlık olunudan sonra kaçıncı nesneci adayı pasha namadan bir pasha zirvesi olunuyorunu beşpa zira ülkeye sahip olan bu zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira zira
+
+### ot2tr/1nolumuhimmeimaktume-274/3   norm-CER=565.5
+OT  : مقوله مزبور بیان محمدڭ عوانهسندن مقدما ترتیب جزالری ضمننده حقلرنده اوامر صادر اولوب
+REF : Makūle-i mezbûr-ı beyân Mehmedin avânesinden mukaddemâ tertîb-i cezâları zımnında haklarında evâmir sâdır olup
+PRED: Mokla Mersur Biz Muhammad'un anaşından mevpeeden çatışları arasında gecelerde bulunur ama oman sahip olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan olup olmayan ol
+
+### ot2tr/4nolunefydefteri-21/12   norm-CER=555.9
+OT  : اول وجهله اجراسی خصوصنه اراده سنیه ملوكانهم تعللقیله امر همایون شاهانهم سنوخ و صدور ایلهمش
+REF : ol vechle icrâsı husûsına irâde-i seniyye-i mülûkânem ta’allukıyla emr-i hümâyûn-ı şâhânem sunûh u sudûr eylemiş
+PRED: Oluşturucu eresmi haleşte aradığın seniye melekatliğe amar hemyon şahinler seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin seninin sen
+
+### ot2tr/sabih-92/7   norm-CER=548.5
+OT  : كلبكلر حسیات عمومیهیه ترجمان اولمش ده آفتاب جهان آرایه خطابا معشوقه حقدنسین سن
+REF : Kelebekler hissiyât-ı umûmiyeye tercümân olmuş da âfitâb-ı cihân ârâya hitâben Mâ’şuka-i Hak’tansın sen:
+PRED: Kebekler Sırt Cumhuriye Tertip Tanım Olması da Afattan Çan Arayı Kitabaya Mısır'ın senaysi streslenin senayla siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyasetçi sannı streslenin siyaset
+
+### ot2tr/baskanlarimizvegenelkurul-4-18/14   norm-CER=534.1
+OT  : عزیز آرقداشلر؛ ایش باشنه گلیركن، مملكتڭ ایچنده بولوندیغی مشكل شرطلری پروغراممزده چوق قیصه اولارق بلیرتمك ایستهمشدك
+REF : Aziz arkadaşlar; iş başına gelirken, memleketin içinde bulunduğu müşkül şartları programımızda çok kısa olarak belirtmek istemiştik
+PRED: Zız Arğışlar; İş başa gelirken, Mamlak'ın içine bağlı birşey şampetre püskemizde çok kaya olurca belirtmek istemektedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek istedikten daha fazla bilim temelştirerek isted
+
+### ot2tr/C╠ºankirihakyolusayi1-3/34   norm-CER=466.7
+OT  : بول
+REF : bul
+PRED: Bul televizyonlar.
+
+### ot2tr/ac─▒mak-68/16   norm-CER=460.4
+OT  : اوت بزی بتون طانییانلر فجیع شكلده اولدیرولن بیوك بالدیزم رخساره سفالت ایچنده ایڭلهین قاین آنامه قاریمه چوجقلریمه آجییورلر بزه لعنت ایدییورلردی
+REF : Evet bizi bütün tanıyanlar feci şekilde öldürülen büyük baldızım Ruhsara sefalet içinde inleyen kayın anama karıma çocuklarıma acıyorlar bize lanet ediyorlardı.
+PRED: Evet biz tütün tanıçılar Fiyatın şekilde bulundurulan biri bilim deşirde işte içine bağlı anlama karisma çevrilereceğimi yaptığımız bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan kadar çıkabilirleri yapar bize lattin açan çıkarma sürecinde en azından kaynaklanan
+
+### ot2tr/elhacibrahimtarihcesi-22/8   norm-CER=460.0
+OT  : شیخ الفراشین افندی معرفتیله او مقولهلره توزیع و تقسیم و اونلر دخی امضا وضعیله درسعادته اعاده و تسییر ایدرلر ایدی
+REF : Şeyh el-Ferrâşîn Efendi ma‘rifetiyle o makûlelere tevzî‘ ve taksîm ve onlar dahî imzâ vaz‘ıyla Der-Sa‘âdet’e i‘âde ve tesyîr iderler idi.
+PRED: Şeyh Farsan Efendi Mecid'te o milyarele tutıcı ve tasarımcı ve onlar de empa kastaya dersadi olarak çevresine adırlar idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idirler idir
+
+### ot2tr/uyunulhidaye-9/15   norm-CER=423.1
+OT  : و اون ایكی امامدن و چهار ده معصوم پاكلردن زیاده مؤمن كیمسه اوله می گلمسی ایشته بونلره قصد ایدهڭلرڭ هر بری جمعئ ناسی اولدیرمش قدردر
+REF : ve on iki (imâmdan) ve çehâr deh ma´sûm pâklardan ziyâde mü’min kimse ola mı gelmesi işte bunlara kasd idenlerin her biri cem´î-i nâsı öldürmiş kadardır
+PRED: Ve on iki imamdan ve herde çatı da mezum palkalarından zayıf muhimmek ise buna kastedenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin edilenlerin her biri cemali nesi oldu değil mi gelmesi işte bunlarca kesin
+
+### ot2tr/3nolutevziat-256/16   norm-CER=395.7
+OT  : خطابا امر شریفم اصدار و باش محاسبهیه علم و خبری اعطاسنی دفتر امینی مومی الیه اعلام ایتمكله وجه مشروح أوزره عمل و حركت اولونمق فرمانم اولمغن
+REF : hitâben emr-i şerîfim isdâr ve baş muhâsebeye ilm ü haberi i’tâ’sını defter emîni mûmâ ileyh i’lâm itmekle vech-i meşrûh üzere amel ve hareket olunmak fermânım olmağın
+PRED: Halkababa Emr Şerifim Eşar ve Baş Mahallede Sırbistan'ya bağlı işleri olarak dörtember mi muhafaza eli açman imeni Mozyere ileri oturumu olmaya evet hukun etmek fermanim olmayanlarla ortaklık sağlığı ile hikmet olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmayanlarla ortaklık sağlığı ile hikmat olmak için reforma olmay
+
+### ot2tr/sohbetulgaye-10/2   norm-CER=375.8
+OT  : مثلا رویالرنده قلجلرنده قان گوروب و قلجلرینڭ آغزینی بر قاچ یرنده گدیگی گوروب انسان جسمانی ایله بیدار اولدقلرنده قلجلرینی كندی وجود شریفلری ایله تعبیر بیوروب
+REF : Meselâ rü’yâlarında kılıçlarında kân görüb ve kılıçlarının agzını bir kaç yerinde gedigi görüb insân-ı cismâni ile bidâr olduklarında kılıçlarını kendi vücūd-ı şerifleri ile ta‘bir buyurub
+PRED: Mesele Rüyalarında Kullanılan Kan Görev ve Kullanırlarda Gediği Görev insan yaşamı ile benden çıkar olanlardan Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda Kullanılarda K
+
+### ot2tr/yolvemenzildefterleri-85/5   norm-CER=375.0
+OT  : و فیما بعد بو مثللو حركات نامناسبهیه جرأت ایدنلر منع و بر تقریب دخول و اموال و اشیا و حیوانات سرقه ایلدكلری خبر ویریلدیگی آنده
+REF : ve fi maba’d bu misillü harekât-ı nâ-münasebeye cü’ret edenler men ve ber takrib duhul ve emval ve eşya ve hayvanat sirka eyledikleri haber verildiği anda
+PRED: Ve fiyama daşma bu metinler hikmete göre edilenler manet ve bir tarih deltili ve emily ve insanlık seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğimde anlıyorlar stokları harf veriyoru anlamlı ve hayvanat seferi iddiye olarak haber verildiğ
+
+### ot2tr/ankara2cilt3-2/5   norm-CER=343.6
+OT  : و أونیهنڭ چوقور قریهسندن اولوب اون بشنجی فرقهنڭ اوتوز سكزنجی آلایینڭ برنجی طابورینڭ دردنجی بولكندن فراری أوچ یوز اون سكز تولدلی قاپیجی اوغللریندن فیضی اوغلی ابراهیم
+REF : ve Ünye’nin Çukur karyesinden olup On Beşinci Fırkanın Otuz Sekizinci Alayının Birinci Taburunun Dördüncü Bölüğünden firari üç yüz on sekiz tevellüdlü Kapıcı oğulları’ndan Feyzi oğlu İbrahim
+PRED: Ve onun çok önemli kariyerden olup şu bensin farkını olan birincilik alayının birinci taraflı kapıcı oğlu olan bu karısı öncelik oğlu olan birincilik olan fizici oğlu erkeklerinden fiili oğlu erkekleri olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu erkeklerden birincilik olan fizici oğlu
+
+### ot2tr/atestengomlek-22/25   norm-CER=331.9
+OT  : احسان، میتینگ گونی بزی آرقداشلریله قاپییه قدر گتیردكدن صوڭره دونركن هر زمان كندینه صاحب گورونن آیریق گوزلرنده غریب بر پیریلتی ایله عایشهنڭ چارشافنڭ بول سیاه گولگهلری ایچنده اوه گیریشنه باقدی
+REF : İhsan, miting günü bizi arkadaşlarıyla kapıya kadar getirdikten sonra dönerken her zaman kendine sahip görünen ayrık gözlerinde garip bir pırıltı ile Ayşe’nin çarşafının bol siyah gölgeleri içinde eve girişine baktı
+PRED: Ahsin, Mitinç günü Bizi Arkaşırlarıyla kapıya katt verdi dünne donurken her zaman kendine sahip görünnen arası güzlerden geçişten bir şahibın çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene görecek olanlar arasında öyle bir görevlenir diye doğru gerçekleşen bir şahibi'nin çarşafından bulun olarak çevrilene göre
+
+### ot2tr/elhacibrahimtarihcesi-22/13   norm-CER=331.5
+OT  : بالضروره اول محلده توقیف ایله مژدهجیاندن مفارقت و اون بش گون محل مذكورده لا یعقل مكث و اقامتدن صوڭره بر مقدار وجودمده خفت نمایان اولمغله
+REF : bi’z-zarûre ol mahalde tevkîf ile müjdeciyândan müfârakât ve on beş gün mahall-i mezkûrda lâ ya‘kıl meks ve ikâmetden sonra bir mikdâr vücûdumda hiffet nümâyân olmağla
+PRED: Başkura Ulusal Tarih'da Topik ile meydanağından mı faydatt ve on şebe gün merkezde bulunmakta bir miktarlık varlıma olmaya bağlı olarak değişen olmayan olumluğunda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumluğunda hafizamda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumluğunda hafizamda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumluğunda hafizamda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumluğunda hafizamda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumluğunda hafizamda hafızan olmak üzere beynin yok muhalefet nezmeleri olan olmayan olumlu
+
+### ot2tr/tarihisami-137/13   norm-CER=323.8
+OT  : ضروری اختفا ایدن عزت علی بگ أفندینڭ دفتردارلق امورنده كمال مهارتی جملهیه ظاهر و عیان و ایكی سنهیه قارب مدتدن بری اول مقوله جاه جلیل الاعتبارده مستخدم ایكن
+REF : zarûrî ihtifâ iden İzzet Ali Bey efendi’nin Defterdârlık umûrunda kemâl-i mahâreti cümleye zâhir ü ayân ve iki seneye karîb müddetten berü ol makūle câh-ı celîl eli‘tibârda müstahdem iken
+PRED: Kururi Ahtifin eden Cetelli gibi fonun dörtlerde elma mahmeti cümle'e bağlı olarak kadın maktır kalınlık adayla mesajta biri olmakla yapar elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi karanlık meddan biri olan milyada kapalı olan elbette işi k
+

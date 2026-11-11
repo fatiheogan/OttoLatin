@@ -1,0 +1,150 @@
+### 1976151   norm-CER=516.0
+OT  : خیر خیر خیر خیر خیر خیر. ١٦٧٠لرده أولانلر. آدایلر و قزانانلر.
+REF : Hayır Hayır Hayır Hayır Hayır Hayır. 1670'lerde ölenler. Adaylar ve Kazananlar.
+PRED: Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır Hayır H
+
+### 1020544   norm-CER=82.3
+OT  : دیگر حیوانلر ده انسانلره بڭزر اورغان سیستملرینه صاحبدر آنجق داها بسیط حیوانلر بر اورغان سیستمڭده داها آز اورغانه ویا حتی داها آز اورغان سیستمنه صاحب اولابیلیر. أولدیگینده.
+REF : Diğer hayvanlar da insanlara benzer organ sistemlerine sahiptir ancak daha basit hayvanlar bir organ sisteminde daha az organa veya hatta daha az organ sistemine sahip olabilir. Öldüğünde.
+PRED: Diğer hayvanlar da insanlara benzer organ sistemlerine sahiptir Ancak daha basit hayvanlar bir organ sisteminde daha az organa veya hatta daha az organ sisteminde daha az organa veya hatta daha az organ sisteminde daha az organa veya hatta daha az organ sisteminde daha az organa veya hatta daha az organ sistemine sahip olabilir. Öldüğünde.
+
+### 1272798   norm-CER=57.9
+OT  : ایشته اوراده افندیم. ایشیق منزل ١١ میل.
+REF : İşte orada efendim. Işık Menzili 11 mil.
+PRED: İşte orada efendim. İşte orada efendim. İşik menzil 11 mil.
+
+### 104655   norm-CER=39.1
+OT  : صانیرم ماقارنه ماقارنه ماقارنه ماقارنه پینیر.
+REF : Sanırım makarna makarna makarna makarna peynir.
+PRED: Sanırım makarna makarna makarna makarna makarna makarna pinir.
+
+### 1481474   norm-CER=37.4
+OT  : ٢٠١٠ده ایلك كز مصر قارشیسنده آفریقه اولوسلر قوپهسینده مجادله ایتمشدر... ال صالوادور بایراغی خریطهسی رنكلری تاریخی و آڭلامی انگلیزجه:
+REF : 2010'da ilk kez Mısır Karşısında Afrika Uluslar Kupası'nda mücadele etmiştir... El Salvador bayrağı haritası renkleri tarihi ve anlamı İngilizce:
+PRED: 2010'da ilk kez Mısır karşısında Afrika Uluslararası renkleri tarihi ve anlamı İngilizce:
+
+### 204907   norm-CER=36.4
+OT  : بر شبههلی،
+REF : Bir şüpheli,
+PRED: Bir şibehli,
+
+### 575826   norm-CER=33.3
+OT  : صیوی جیوه.
+REF : Sıvı cıva.
+PRED: Sıvı ceyve.
+
+### 863213   norm-CER=33.3
+OT  : عطولر.
+REF : ATVler.
+PRED: Atolar.
+
+### 832248   norm-CER=33.3
+OT  : فوگ.
+REF : Füg.
+PRED: Fog.
+
+### 274848   norm-CER=30.0
+OT  : زكی شوق.
+REF : Zeki Şevki.
+PRED: Zeki şok.
+
+### 744305   norm-CER=27.3
+OT  : لاستیك عمری.
+REF : Lastik ömrü.
+PRED: Lastik Ameri.
+
+### 25290   norm-CER=27.3
+OT  : آذربیجان خوانندهلری.
+REF : Azerbaycan hanendeleri.
+PRED: Azerbaycan Havanındaları.
+
+### 316048   norm-CER=26.9
+OT  : ١٩٩١ ١٩٩٨ آدیملر جملهلر.
+REF : 1991 1998 Adımlar Cümleler.
+PRED: 1991 1998 Adımlar Cumhuriyetler.
+
+### 1546200   norm-CER=26.7
+OT  : أونیه تاریخی؛ رولی بیتنجه گیدر.
+REF : Ünye tarihi; Rolü bitince gider.
+PRED: Üniversitesi; Rolü bitince gider.
+
+### 195533   norm-CER=26.2
+OT  : بولوندیغی ییرلر چین قوزی اورته قسمی چین گونی اورته قسمی چین گونی طوغو قسمی تیبت.
+REF : Bulunduğu yerler Çin Kuzey Orta kısmı Çin Güney Orta kısmı Çin Güneydoğu kısmı Tibet.
+PRED: Bulunduğu yerler Çin Kuzey Orta Kısmı Çin Güney Orta Kısmı Çin Güney Orta Kısmı Çin Güney Doğu Kısmı Tibet.
+
+### 264565   norm-CER=25.8
+OT  : ثنتل باصین دویوریسی انگلیزجه.
+REF : Sintel Basın Duyurusu İngilizce.
+PRED: Entel Basın Deviyorisi İngilizce.
+
+### 2503720   norm-CER=25.7
+OT  : بو صاییسز دزآوانتاژه رغما ایكی زمانلی موتور قوللانیلان برچوق دیزل موتور واردر آنجق ایكی زمانلی موتورڭ قوللانیمی اچون اویغون اولان یر كوچك بنزینلی موتورلردر چیم بیچمه ماكینهسی گبی. اگلنجهلی گری دونوشوم. دین پولیسڭه قیصیتلامه.
+REF : Bu sayısız dezavantaja rağmen iki zamanlı motor kullanılan birçok dizel motor vardır Ancak iki zamanlı motorun kullanımı için uygun olan yer küçük benzinli motorlardır çim biçme makinesi gibi. Eğlenceli Geri Dönüşüm. Din polisine kısıtlama.
+PRED: Bu sayısız dezavantaja rağmen iki zamanlı motorun kullanımı için uygun olan yer küçük benzinli motorlardır Çim biçme makinesi gibi. Eğlenceli geri dönüşüm. Din polisine kısıtlama.
+
+### 92576   norm-CER=25.0
+OT  : چوره حقوقی.
+REF : Çevre hukuku.
+PRED: Çora hukuku.
+
+### 875294   norm-CER=24.0
+OT  : آل یمنی مور یمنی ١٩٦٠.
+REF : Al Yemeni Mor Yemeni 1960.
+PRED: Al Yamanı Mor Yamanı 1960.
+
+### 396848   norm-CER=23.1
+OT  : آخر و مهره.
+REF : Ahar ve mühre.
+PRED: Ahra ve Mehre.
+
+### 867218   norm-CER=22.2
+OT  : ییمكمكده صحبت وار.
+REF : Yemekte Sohbet Var.
+PRED: Yemekte sahipti var.
+
+### 8312   norm-CER=22.2
+OT  : دوریمجی لیسهلیلر.
+REF : Devrimci Liseliler.
+PRED: Dörümcü liseliler.
+
+### 204093   norm-CER=21.4
+OT  : اورفهنڭ اطراف.
+REF : Urfanın Etrafı.
+PRED: Orfanın itraf.
+
+### 702348   norm-CER=20.0
+OT  : ٢٠٠١ دڭی.
+REF : 2001 Deney.
+PRED: 2001 Deni.
+
+### 852197   norm-CER=20.0
+OT  : مصاب.
+REF : Musap.
+PRED: Musab.
+
+### 103137   norm-CER=20.0
+OT  : زیپلیورم.
+REF : Zıplıyorum.
+PRED: Zipliyorum.
+
+### 212715   norm-CER=20.0
+OT  : اوڭی دوگدیم.
+REF : Onu dövdüm.
+PRED: Onu düğdüm.
+
+### 527099   norm-CER=19.5
+OT  : بیاض ایراق بلوقی حسان علاوی لیدرلگنده.
+REF : Beyaz Irak Bloku Hasan Alavi liderliğinde.
+PRED: Beyaz İrak Boluğu Hüseyin Alavi Liderliğinde.
+
+### 785216   norm-CER=19.3
+OT  : هیچ بر شیئڭ برباد اولمادیغی بر كمیدن خبردار احتیاجڭمیسڭز.
+REF : Hiçbir şeyin berbat olmadığı bir gemiden haberdar mısınız.
+PRED: Hiçbir şeyin birbat olmadığı bir kemiden haberdar ihtiyacınmısınız.
+
+### 1764204   norm-CER=18.9
+OT  : تورك كمانچهجیلر... قزانمق زورندهیز.
+REF : Türk kemençeciler... Kazanmak zorundayız.
+PRED: Türk kemançacılar... Kazan zorundayız.
+

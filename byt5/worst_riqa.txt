@@ -1,0 +1,150 @@
+### riqa/54cfd4a4-80d3-4aae-8c65-a12c604af9da-020   norm-CER=6300.0
+OT  : سرعسكر
+REF : Serasker
+PRED: Seraskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriskeriske
+
+### riqa/ea15505d-d2a8-493f-99ea-6ea0e2615a09-006   norm-CER=6300.0
+OT  : معاریف
+REF : Ma‘ârif-i
+PRED: Maarifi Maarififi Maarififi Maarififi Maarififi Maarififi Maarififi Maarifififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififififif
+
+### riqa/ea15505d-d2a8-493f-99ea-6ea0e2615a09-013   norm-CER=6000.0
+OT  : استیذان
+REF : istîzân
+PRED: İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan'an İstizan
+
+### riqa/a650aae0-e851-483e-b1d3-67b9f88e1eeb-001   norm-CER=5600.0
+OT  : باب عالی
+REF : Bâb-ı-Âlî
+PRED: Bab Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliy
+
+### riqa/a7bd8fe4-9159-48e4-99a7-57f9b1149e76-000   norm-CER=5600.0
+OT  : باب عالی
+REF : Bâb-ı-Âlî
+PRED: Bab Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliy
+
+### riqa/a95f0e28-d3bf-4df4-9fc6-6cfe8daff391-000   norm-CER=5600.0
+OT  : باب عالی
+REF : Bâb-ı âli
+PRED: Bab Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliy
+
+### riqa/e2b1591b-cb5a-4582-b673-7a6a98d11ce8-001   norm-CER=5600.0
+OT  : باب عالی
+REF : Bab-ı Âlî
+PRED: Bab Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliyeti Aliy
+
+### riqa/0fb1e792-5f0c-4fcb-9916-e5b26b79b5d9-033   norm-CER=5262.5
+OT  : اولنمسی
+REF : olunması
+PRED: Olnaması olnamasıylarısı olnamasıylarısı olnamasıylarısı olnamasıylarısıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıylasıy
+
+### riqa/2d16a812-a123-4f29-9d3d-34d3c0be1498-001   norm-CER=4912.5
+OT  : نومره ١٣
+REF : Numro 13
+PRED: Nomra 13'te 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ümre 13'ü
+
+### riqa/ac97d1e3-36c4-40d0-a634-301d75f2db9a-005   norm-CER=4518.2
+OT  : عدد مودلی
+REF : aded modeli
+PRED: Adet modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli modeliyetli.
+
+### riqa/14145d3b-96e9-455e-8e76-920694f0efde-007   norm-CER=4200.0
+OT  : صدراعظم
+REF : Sadrazam
+PRED: Sadrazımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızı
+
+### riqa/a95f0e28-d3bf-4df4-9fc6-6cfe8daff391-014   norm-CER=4200.0
+OT  : صدراعظم
+REF : Sadrazam
+PRED: Sadrazımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızı
+
+### riqa/c0dde61a-dd64-45eb-baeb-f351def1f67e-002   norm-CER=4166.7
+OT  : نظام ویریله
+REF : nizâm verile
+PRED: Nazam verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile nazam verile verile
+
+### riqa/1e79d0df-4a43-4f49-8ec1-7dd763abc4f1-000   norm-CER=3838.5
+OT  : بنم وزیرم
+REF : Benim vezirim
+PRED: Benim vezirimizim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezi
+
+### riqa/3f18e139-44cc-4227-88dc-382c5746e70c-000   norm-CER=3838.5
+OT  : بنم وزیرم
+REF : Benim vezîrim
+PRED: Benim vezirimizim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezi
+
+### riqa/8d2823bd-b4f3-46af-ad5f-0f7658aa2d6b-000   norm-CER=3838.5
+OT  : بنم وزیرم
+REF : Benim vezirim
+PRED: Benim vezirimizim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezirimim vezi
+
+### riqa/c25bfa03-dbf2-41e2-8164-d639b87fbede-013   norm-CER=3740.0
+OT  : ایكنجی سوز
+REF : [İKİNCİ SÖZ]
+PRED: İkinci sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü sözcü
+
+### riqa/c0dde61a-dd64-45eb-baeb-f351def1f67e-003   norm-CER=3722.2
+OT  : پادشاهم
+REF : padişahım
+PRED: Padşahımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımızımız
+
+### riqa/675e3a55-9125-4502-8f60-b8a5ab6af227-003   norm-CER=3641.7
+OT  : فصل ثالث
+REF : Fasl-ı Sâlis
+PRED: Faslı salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl salsıl s
+
+### riqa/54cfd4a4-80d3-4aae-8c65-a12c604af9da-001   norm-CER=3557.1
+OT  : مكتوبی قلمی
+REF : Mektûbî Kalemi
+PRED: Mektubu klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi klemiyetimi
+
+### riqa/e2b1591b-cb5a-4582-b673-7a6a98d11ce8-006   norm-CER=3340.0
+OT  : عزتلو افندیم
+REF : İzzetlü efendim
+PRED: Azetli efendimindimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizdimizd
+
+### riqa/a650aae0-e851-483e-b1d3-67b9f88e1eeb-002   norm-CER=3313.3
+OT  : دائره صدارت
+REF : Daire-i Sadâret
+PRED: Daire Sedarete Sedaretesidarete Sedaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidarete
+
+### riqa/a7bd8fe4-9159-48e4-99a7-57f9b1149e76-001   norm-CER=3313.3
+OT  : دائره صدارت
+REF : Dâire-i Sadâret
+PRED: Daire Sedarete Sedaretesidarete Sedaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidarete
+
+### riqa/a95f0e28-d3bf-4df4-9fc6-6cfe8daff391-001   norm-CER=3313.3
+OT  : دائره صدارت
+REF : Dâire-i Sadâret
+PRED: Daire Sedarete Sedaretesidarete Sedaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidaretesidarete
+
+### riqa/fa4d5f18-827e-4821-9b11-64b5ac03946d-003   norm-CER=3053.3
+OT  : فی ١٦ ص ٧٦
+REF : Fî 16 S sene 76
+PRED: Fi 16 s 76'de 76 fi 16 s 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de 76'de 76 fi 16 s 76'de6 76 76 s 76'de 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76 76 fi 16 s 76'de 76'de 76
+
+### riqa/9dd1bfe9-a631-4be7-a4e8-e4dd6474fae0-002   norm-CER=2976.9
+OT  : قطعه خریطهیی
+REF : kıt‘a haritayı
+PRED: Kata Haritayı'yıyıyıyı kata haritayıyıyıyıyıyı kata haritayıyıyıyıyıyıyı kata haritayıyıyıyıyıyıyı haritayıyıyıyı kata haritayıyıyıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayıyıyıyıyı haritayı
+
+### riqa/a95f0e28-d3bf-4df4-9fc6-6cfe8daff391-002   norm-CER=2357.1
+OT  : آمدی دیوان همایون
+REF : Âmedî Dîvân-ı Hümâyûn
+PRED: Amdı Divan Hemayon Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun Hemayonun He
+
+### riqa/fbedd211-1bfb-4235-9540-c7b2c450d82a-000   norm-CER=2306.2
+OT  : تلغراف مدیرینه
+REF : Telgraf Müdürüne
+PRED: Telgraf müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne müdürüne
+
+### riqa/ac97d1e3-36c4-40d0-a634-301d75f2db9a-009   norm-CER=2273.7
+OT  : ایجاب حالك اجراسی
+REF : îcâb-ı hâlin icrâsı
+PRED: İcap Halk Ecrası'nı icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası icrası i
+
+### riqa/ac97d1e3-36c4-40d0-a634-301d75f2db9a-008   norm-CER=2270.0
+OT  : بالمعاینه بو بابده
+REF : bi’l-mu‘âyene bu bâbda
+PRED: Balmayna bu babdada'da babdada babdada babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da babdada'da
+
